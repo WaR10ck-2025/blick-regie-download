@@ -4,7 +4,7 @@ Dies ist der Download-Bereich der **Blick-Regie** für Windows. Hier liegt nur d
 
 Die Blick-Regie schaltet in OBS live zwischen deinen Kameras um: per Wisch zur Seite, später auch per Blick. Sie läuft komplett offline – kein Kamerabild verlässt deinen PC.
 
-> **Stand:** Prototyp zum Testen. Die erste Testfassung erscheint in Kürze – bis dahin führt der Link unten noch ins Leere.
+> **Stand:** Prototyp zum Testen. Die aktuelle Fassung und ihre Neuerungen stehen unter [Releases](https://github.com/WaR10ck-2025/blick-regie-download/releases).
 
 ## Herunterladen
 
